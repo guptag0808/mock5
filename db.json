@@ -1,0 +1,61 @@
+{
+  "freelancers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": 25,
+      "profile_picture": "profile1.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "hourly_rate": 30,
+      "profile_picture": "profile2.jpg",
+      "isBooked": true
+    },
+    {
+      "name": "rahul",
+      "profile_picture": "http://127.0.0.1:5500/user.html",
+      "email": "saurabh4kaj@gmail.com",
+      "password": "1234",
+      "profession": "web",
+      "skills": [
+        "html",
+        "js",
+        "express",
+        "mongoDB"
+      ],
+      "hourly_rate": "200",
+      "id": 4
+    },
+    {
+      "name": "vikash goyal",
+      "profile_picture": "http://127.0.0.1:5500/user.html",
+      "email": "saurabh4kaj@gmail.com",
+      "password": "1234",
+      "profession": "designer",
+      "skills": [
+        "html",
+        "css"
+      ],
+      "hourly_rate": "222",
+      "id": 5
+    }
+  ]
+}
